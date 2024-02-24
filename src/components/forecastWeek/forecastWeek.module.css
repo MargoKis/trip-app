@@ -1,0 +1,12 @@
+.title {
+  margin-top: 8%;
+  font-size: 24px;
+  text-align: start;
+}
+
+.cardDay {
+  margin: 1%;
+  padding: 1%;
+  border: 2px solid blue;
+  width: 10%;
+}

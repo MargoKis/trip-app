@@ -1,0 +1,13 @@
+.container {
+  overflow-x: auto;
+  max-width: 600px;
+}
+
+.cardList {
+  display: flex;
+  flex-wrap: nowrap;
+}
+
+.cardWrapper {
+  margin-right: 10px;
+}

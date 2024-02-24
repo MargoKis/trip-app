@@ -1,0 +1,17 @@
+.wrapCard {
+  border: 1px solid blue;
+  cursor: pointer;
+}
+
+.imageCard {
+  width: 200px;
+  height: 200px;
+}
+
+
+.startDate,
+.endDate {
+  font-size: 14px;
+}
+
+

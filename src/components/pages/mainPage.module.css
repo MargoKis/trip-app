@@ -1,0 +1,61 @@
+.container {
+  display: flex;
+  flex-direction: row;
+  margin-top: 10%;
+}
+
+.cardsWrap {
+  max-width: 360px;
+  overflow-x: auto;
+}
+
+.cardList {
+  display: flex;
+  flex-direction: row;
+  margin-top: 5%;
+  gap: 20px;
+}
+
+.addTripCard {
+  width: 200px;
+  height: 200px;
+  border: 1px solid blue;
+  text-align: center;
+  cursor: pointer;
+  margin-left: 20px;
+}
+
+.addTripText {
+  margin: 0;
+}
+
+.plus {
+  font-size: 30px;
+  margin-bottom: 0;
+}
+
+.title {
+  text-align: start;
+  font-size: 24px;
+}
+
+.container {
+  display: flex;
+  overflow-x: auto; 
+  max-width: 100%; 
+}
+
+ .wholePage {
+ display: flex;
+ flex-direction: row;
+ justify-content: space-between;
+ align-items: center;
+}
+
+.leftCard {
+  display: flex;
+  flex-direction: row;
+}  
+
+
+

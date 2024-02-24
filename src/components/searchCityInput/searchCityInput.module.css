@@ -1,0 +1,11 @@
+.searchContainer {
+  text-align: start;
+}
+
+input[type="text"] {
+  padding-left: 30px;
+}
+
+input {
+  height: 30px;
+}
